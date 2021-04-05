@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/Schema%20lol.png)
 <br>All of this is done just to run the neural network on another computer because on the rbpi, he burn 🔥
 btw the goal is to follow a person with the cam/cannon so we send x and y pos to the rbpi and he turn the 
-motor to always face the person 🔫.
+motor to always face the person 🔫. (code not out yet; Iam working on it)
 
 ## License
 
