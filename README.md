@@ -2,7 +2,7 @@
 ## *Vladimir is my co-pilot* (project for last year of HighSchool engineering sciences)
 <br>A Yolov2 neural network used to pilot rbpi from SL-5 (a squash ball launcher) over a network using sockets.
 
-## a very comprehensive drawing to explain the thing
+## a very comprehensive drawing to explain the thingy
 ![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/Schema%20lol.png)
 ![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/RealisticFragrantHerculesbeetle-size_restricted.gif)
 <br>All of this is done just to run the neural network on another computer because on the rbpi, he burn 🔥
