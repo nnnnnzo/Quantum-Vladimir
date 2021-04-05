@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/badge.png)
-## *Vladimir is my co-pilot*
+## *Vladimir is my co-pilot* (Last year HighSchool engineering sciences project)
 <br>A Yolov2 neural network used to pilot rbpi from SL-5 (a squash ball launcher) over a network using sockets.
 
 ## a very comprehensive drawing to explain the thing
