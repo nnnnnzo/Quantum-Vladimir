@@ -10,7 +10,7 @@ btw the goal is to follow a person with the cam/cannon so we send x and y pos to
 motor to always face the person 🔫. (code not out yet; Iam working on it) 
 
 ## so far so good
-So I just made the thing running and I got very good result for delay/latency wich made the software unusable on the pi,
+So I just made the thing running and I got very good result in terms of delay/latency wich was making the software unusable on the pi,
 you can see it with this very scientist data graph 🧪:
 <br>![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/Delay%20in%20milliseconds%20(RBPI%204%20with%204GB%20ram)-2.png)
 <br>*I don't have data for [RBPI + MBair with Yolo + Picamera Video Stream] because I don't have the Picamera (csi) at the moment*
