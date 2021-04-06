@@ -13,7 +13,7 @@ motor to always face the person 🔫. (code not out yet; Iam working on it)
 So I just made the thing running and I got very good result in terms of delay/latency wich was making the software unusable on the pi,
 you can see it with this very scientist data graph 🧪:
 <br>![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/Delay%20in%20milliseconds%20(RBPI%204%20with%204GB%20ram)-2.png)
-<br>*I don't have data for [RBPI + MBair with Yolo + Picamera Video Stream] because I don't have the Picamera (csi) at the moment*
+<br>*I don't have data for [RBPI + MBair with Yolo + Picamera Video Stream] because I don't have the Picamera (csi) at home*
 <br>As you can see, the all thing is much faster ⚡️ and can be usable to follow a person using the motor.
 
 ## License
