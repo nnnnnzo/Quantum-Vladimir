@@ -14,7 +14,7 @@ So I just made the thing running and I got very good result in terms of delay/la
 you can see it with this very scientist data graph 🧪: (these times values are **ΔT=t2-t1** with **t1 = person in the field of view** and **t2 = x and y data reaching the pi**)
 <br>![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/Delay%20in%20milliseconds%20(RBPI%204%20with%204GB%20ram)-2.png)
 <br>***I don't have data for [RBPI + MacBookAir with Yolo + Picamera Video Stream] because I don't have the Picamera (csi) at home***
-<br>As you can see, the all thing is much faster ⚡️ and can be usable to follow a person using the motor.
+<br>As you can see, the all thing is much faster ⚡️ and can be use to follow a person using the motor.
 <br>![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/i49pmy0yqe4l.gif)
 <br>*gotta go fast*
 
