@@ -22,7 +22,7 @@ you can see it with this very scientist data graph 🧪: (these times values are
 The code uploaded is a middle state one, it does not handle an video stream on the network due to the fact that I dont currently have a PiCamera
 <br>* ***Server.py*** run on the rbpi
 <br>* ***Vision.py*** run on the computer that will handle the neural network and image detection
-<br>*(run on port 9093)*
+<br>*(run on port 9093, and need the yolov2-tiny weights and cfg files)*
 
 ## License
 
