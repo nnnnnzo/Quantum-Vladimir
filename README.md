@@ -18,6 +18,12 @@ you can see it with this very scientist data graph 🧪: (these times values are
 <br>![](https://raw.githubusercontent.com/nnnnnzo/Quantum-Vladimir/main/Assets/i49pmy0yqe4l.gif)
 <br>*gotta go fast*
 
+## mid state 🐥
+The code uploaded is a middle state one, it does not handle an video stream on the network due to the fact that I dont currently have a PiCamera
+<br>* ***Server.py*** run on the rbpi
+<br>* ***Vision.py*** run on the computer that will handle the neural networl and image detection
+<br>*(run on port 9093)*
+
 ## License
 
 [![GNU GPLv3 Logo](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
