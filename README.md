@@ -23,6 +23,7 @@ The code uploaded is a middle state one, it does not handle an video stream on t
 <br>* ***Server.py*** run on the rbpi
 <br>* ***Vision.py*** run on the computer that will handle the neural network and image detection
 <br>*(port 9093, and need the yolov2-tiny [weights](https://pjreddie.com/media/files/yolov2-tiny.weights) and [cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg) files)*
+<br>![](https://github.com/nnnnnzo/Quantum-Vladimir/blob/main/Assets/1*WzrqcXQzQLAAziNFt1KI0w.gif?raw=true)
 
 ## License
 
